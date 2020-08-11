@@ -4,8 +4,8 @@ import React from 'react';
 import './homepage.styles.scss';
 
 //Components
-import MenuItem from '../../components/menu-item/menu-item.component';
 import Directory from '../../components/directory/directory.component';
+import MenuItem from '../../components/menu-item/menu-item.component';
 
 const HomePage = (props) => {
     return (
